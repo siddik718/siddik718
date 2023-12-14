@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddik718&label=Profile%20views&color=0e75b6&style=flat" alt="siddik718" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddik718" alt="siddik718" /></a> </p>
-
 - 🌱 I’m currently learning **NodeJS, ReactJS, Django**
 
 - 📫 How to reach me **absiddik718@gmail.com**
