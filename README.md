@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddik718&label=Profile%20views&color=0e75b6&style=flat" alt="siddik718" /> </p>
 
-- 🌱 I’m currently learning **NodeJS, ReactJS, Django**
+- 🌱 I’m currently learning **NodeJS, ReactJS, MongoDB**
 
 - 📫 How to reach me **absiddik718@gmail.com**
 
